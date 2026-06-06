@@ -4,5 +4,13 @@
     "email": "test@test.com",
     "password": "123456",
     "createdAt": "2026-06-06T03:20:11.636Z"
+  },
+  {
+    "username": "tyson",
+    "firstName": "tyson",
+    "lastName": "tyson",
+    "email": "tyson@gmail.com",
+    "password": "vercel --prod",
+    "createdAt": "2026-06-06T15:55:39.516Z"
   }
 ]
