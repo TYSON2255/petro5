@@ -11,6 +11,11 @@
     "lastName": "tyson",
     "email": "tyson@gmail.com",
     "password": "vercel --prod",
+     "points": 0,
+    "profileImage": "",
+    "clientApiAdded": false,
+    "clientApiKey": "",
+    "role": "user",
     "createdAt": "2026-06-06T15:55:39.516Z"
   },
   {
