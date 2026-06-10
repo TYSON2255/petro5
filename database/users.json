@@ -20,5 +20,18 @@
     "email": "ayoh@gmail.com",
     "password": "vercel --prod",
     "createdAt": "2026-06-07T00:56:23.277Z"
+  },
+  {
+    "username": "tikno",
+    "firstName": "tikno",
+    "lastName": "tikno",
+    "email": "tikno@gmail.com",
+    "password": "tikno@gmail.com",
+    "points": 0,
+    "profileImage": "",
+    "clientApiAdded": false,
+    "clientApiKey": "",
+    "role": "user",
+    "createdAt": "2026-06-10T03:29:19.085Z"
   }
 ]
